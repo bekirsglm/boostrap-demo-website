@@ -2,6 +2,8 @@
 
 
 📄 Proje Açıklaması / Project Description
+
+
 🧾 Türkçe Açıklama
 
 Bu proje, Bootstrap 5 kullanılarak oluşturulmuş, duyarlı (responsive) yapıya sahip temel bir kurumsal web sitesi şablonudur. Aşağıdaki ana bileşenlerden oluşur:
